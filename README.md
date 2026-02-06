@@ -4,18 +4,18 @@ This project demonstrates the implementation and optimization of a Decision Tree
 
 ->Concepts Covered
 
-Decision Tree Classification
-Gini Impurity
-Train–Test Split
-Overfitting in Decision Trees
-Pre-pruning vs Post-pruning
-Hyperparameter Tuning with GridSearchCV
-Model Visualization
+Decision Tree Classification,
+Gini Impurity,
+Train–Test Split,
+Overfitting in Decision Trees,
+Pre-pruning vs Post-pruning,
+Hyperparameter Tuning with GridSearchCV,
+Model Visualization.
 
 ->Tech Stack
 
-Python
-NumPy
-Pandas
-Matplotlib
-Scikit-learn
+Python,
+NumPy,
+Pandas,
+Matplotlib,
+Scikit-learn.
